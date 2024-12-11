@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartGame.unity
+    guid: 5bc378075fa3b6242a9f68639209e3cb
+  - enabled: 1
+    path: Assets/Scenes/Main_Menu.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/YarraBoard.unity
+    guid: 5a0046e6915713640bc63b5c07cf0812
+  - enabled: 1
+    path: Assets/Scenes/HiddenPassage.unity
+    guid: 2266ea2f18ec63c4980ee90e0d37c547
+  m_configObjects: {}
